@@ -15,6 +15,8 @@ MVC, 4 plus 1
 1. The user should be able to log in with a simple text box, and their password input should be star-protected.
 2. The output of the restaurant selection page should adapt to the screen window size selected by the user (window size agnostic).
 
+## Various components of the system
+
 
 ###  adjust and reformat -
 I/O requirements
