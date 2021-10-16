@@ -17,45 +17,15 @@ The test will comprise two phases : -
 ### Test ideas
 
 * Invalid inputs
-
-```
-No pin code, wrong address, etc.
-```
-
-
-```
-Invalid email/credit card number
-```
-
-
+  * No pin code, wrong address, etc.
+  * Invalid email/credit card number
 * Functional tests
-
-```
-Check integration with 3rd party payment services
-```
-
-
-```
-Personalised cutomer experience like storage of past orders
-```
-
-
-```
-Ability to view driver's GPS location at all times
-```
-
-
+  * Check integration with 3rd party payment services
+  * Personalised cutomer experience like storage of past orders
+  * Ability to view driver's GPS location at all times
 * Non Functional tests
-
-```
-Safe and secure integration with payment services
-```
-
-
-```
-Security of accounts to avoid any account take overs
-```
-
+  * Safe and secure integration with payment services
+  * Security of accounts to avoid any account take overs
 
 
 ## Component tests {   }
