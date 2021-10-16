@@ -1,6 +1,8 @@
 # System Modeling
-The initial System Modeling phase involves creating an abstract view of the system. System Modeling of the first iteration answers the preliminary big questions related to the project requirements: 
-1. What is the external perspective of the system? 
+
+The initial System Modeling phase involves creating an abstract view of the system. System Modeling of the first iteration answers the preliminary big questions related to the project requirements:
+
+1. What is the external perspective of the system?
 2. What will be the interaction between the system and its environment?
 3. Modeling the organization of the system and how it will process data.
 4. How will the application behave in a dynamic environment where it responds to external inputs.
