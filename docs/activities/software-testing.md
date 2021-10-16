@@ -2,7 +2,7 @@
 
 # Approach / Details
 
-Testing will proceed in this order: unit testing, component testing, then system testing.
+Our development testing will proceed in this order: unit testing, component testing, then system testing.
 
 ## Unit tests
 
@@ -26,7 +26,6 @@ The test will comprise two phases : -
 * Non Functional tests
   * Safe and secure integration with payment services
   * Security of accounts to avoid any account take overs
-
 
 ## Component tests {   }
 
